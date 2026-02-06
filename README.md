@@ -27,3 +27,7 @@ Don't all code on main at the same time!
 - Partner A: git checkout -b feature-header
 - Partner B: git checkout -b feature-content and so on and so forth....
 - Push your branches and create a Pull Request on GitHub to merge your work.
+
+### 🌟 Going Above and Beyond (Bonus)
+- Navigation: Try making a "Hamburger Menu" that appears only on mobile.
+- CSS Variables: Define your colors as --primary-color: #3498db; at the top of your CSS.
