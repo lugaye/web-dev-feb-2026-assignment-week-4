@@ -23,7 +23,7 @@ Click the GitHub Classroom link.
 Start by styling your page for a mobile phone. It’s easier to stack elements vertically first, then use Media Queries to move them side-by-side for desktop later.
 
 #### Step 3: Branching (Important!)
-Don't both code on main at the same time!
+Don't all code on main at the same time!
 - Partner A: git checkout -b feature-header
 - Partner B: git checkout -b feature-content and so on and so forth....
 - Push your branches and create a Pull Request on GitHub to merge your work.
