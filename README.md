@@ -17,7 +17,7 @@ To pass the automated grader, your team’s project must include:
 #### Step 1: Form Your Team
 Click the GitHub Classroom link.
 - Learner 1: Create a new team name.
-- Student B: Find that team name and click "Join."
+- Learner 2, 3, and 4: Find that team name and click "Join."
 
 #### Step 2: The "Mobile First" Strategy
 Start by styling your page for a mobile phone. It’s easier to stack elements vertically first, then use Media Queries to move them side-by-side for desktop later.
